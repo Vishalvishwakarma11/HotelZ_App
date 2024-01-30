@@ -1,0 +1,81 @@
+const foods = [
+  {
+    id: '1',
+    name: 'Meat Pizza',
+    ingredients: 'Mixed Pizza',
+    price: '8.30',
+    category: ['Pizza', 'All'],
+  },
+  {
+    id: '2',
+    name: 'Cheese Pizza',
+    ingredients: 'Cheese Pizza',
+    price: '7.10',
+    category: ['Pizza', 'All'],
+  },
+  {
+    id: '3',
+    name: 'Chicken Burger',
+    ingredients: 'Fried Chicken',
+    price: '5.10',
+    category: ['Burger', 'All'],
+  },
+  {
+    id: '4',
+    name: 'Sushi Makizushi',
+    ingredients: 'Salmon Meat',
+    price: '9.55',
+    category: ['Sushi', 'Salad', 'All'],
+  },
+  {
+    id: '5',
+    name: 'Vegetarian Pizza',
+    ingredients: 'Mixed Vegetables',
+    price: '6.50',
+    category: ['Pizza', 'Vegetarian', 'All'],
+  },
+  {
+    id: '6',
+    name: 'Classic Cheeseburger',
+    ingredients: 'Beef Patty, Cheese',
+    price: '8.50',
+    category: ['Burger', 'All'],
+  },
+  {
+    id: '7',
+    name: 'Margherita Pizza',
+    ingredients: 'Tomato, Basil, Mozzarella',
+    price: '7.80',
+    category: ['Pizza', 'All'],
+  },
+  {
+    id: '8',
+    name: 'Veggie Burger',
+    ingredients: 'Vegetarian Patty, Lettuce, Tomato',
+    price: '6.25',
+    category: ['Burger', 'Vegetarian', 'All'],
+  },
+  {
+    id: '9',
+    name: 'Tempura Roll',
+    ingredients: 'Shrimp Tempura, Avocado, Cucumber',
+    price: '10.20',
+    category: ['Sushi', 'All'],
+  },
+  {
+    id: '10',
+    name: 'BBQ Chicken Pizza',
+    ingredients: 'BBQ Sauce, Grilled Chicken',
+    price: '9.80',
+    category: ['Pizza', 'All'],
+  },
+  {
+    id: '11',
+    name: 'Fish Burger',
+    ingredients: 'Breaded Fish Fillet, Tartar Sauce',
+    price: '7.90',
+    category: ['Burger', 'All'],
+  },
+];
+
+export default foods;
